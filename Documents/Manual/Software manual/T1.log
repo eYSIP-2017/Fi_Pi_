@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.6.26)  6 JUL 2017 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.6.26)  6 JUL 2017 11:48
 entering extended mode
 **./T1.tex
 (T1.tex
@@ -278,16 +278,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 
-Overfull \hbox (23.94897pt too wide) in paragraph at lines 17--17
+Overfull \hbox (23.94897pt too wide) in paragraph at lines 16--16
  [][] [][][]\OT1/cmr/m/n/10.95 Network set-tings con-fig-u-ra-tion us-ing DHCP 
 Server(wireless 
+ []
+
+
+Overfull \hbox (3.88916pt too wide) in paragraph at lines 24--24
+ [][] [][][]\OT1/cmr/m/n/10.95 Program to ac-cess GPIO pin of R-Pi for beep-ing
+ Buzzer 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 ...ress of push button}{44}{subsection.3.4.5}
+l.29 ...ress of push button}{44}{subsection.3.4.6}
                                                    [1
 
 ])
@@ -711,19 +717,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []\OT1/cmr/m/n/10.95 800 mA(4.0
  []
 
-[4] [5] [6] [7] <2.PNG, id=214, 479.54156pt x 192.72pt>
+[4] [5] [6] [7] <2.PNG, id=209, 479.54156pt x 192.72pt>
 File: 2.PNG Graphic file (type png)
  <use 2.PNG>
 Package pdftex.def Info: 2.PNG used on input line 129.
 (pdftex.def)             Requested size: 287.72716pt x 115.63287pt.
 
-<3.PNG, id=216, 481.8pt x 193.47281pt>
+<3.PNG, id=211, 481.8pt x 193.47281pt>
 File: 3.PNG Graphic file (type png)
  <use 3.PNG>
 Package pdftex.def Info: 3.PNG used on input line 136.
 (pdftex.def)             Requested size: 289.08221pt x 116.08458pt.
 
-<4.PNG, id=217, 481.04718pt x 192.72pt>
+<4.PNG, id=212, 481.04718pt x 192.72pt>
 File: 4.PNG Graphic file (type png)
  <use 4.PNG>
 Package pdftex.def Info: 4.PNG used on input line 144.
@@ -732,14 +738,14 @@ Package pdftex.def Info: 4.PNG used on input line 144.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <./2.PNG> <./3.PNG>] <Keyboard-Change2.PNG, id=232, 433.62pt x 635.37375pt>
+[8 <./2.PNG> <./3.PNG>] <Keyboard-Change2.PNG, id=227, 433.62pt x 635.37375pt>
 File: Keyboard-Change2.PNG Graphic file (type png)
 
 <use Keyboard-Change2.PNG>
 Package pdftex.def Info: Keyboard-Change2.PNG used on input line 151.
 (pdftex.def)             Requested size: 284.54257pt x 284.53885pt.
 
-<Keyboard-Change3.PNG, id=233, 448.67625pt x 292.84406pt>
+<Keyboard-Change3.PNG, id=228, 448.67625pt x 292.84406pt>
 File: Keyboard-Change3.PNG Graphic file (type png)
 
 <use Keyboard-Change3.PNG>
@@ -753,34 +759,34 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Chapter 2.
 [11
 
-] [12] <ssh.png, id=267, 356.33125pt x 142.5325pt>
+] [12] <ssh.png, id=262, 356.33125pt x 142.5325pt>
 File: ssh.png Graphic file (type png)
  <use ssh.png>
 Package pdftex.def Info: ssh.png used on input line 206.
 (pdftex.def)             Requested size: 285.06537pt x 114.02614pt.
- [13 <./ssh.png>] [14] <r1.jpg, id=278, 255.95625pt x 197.73875pt>
+ [13 <./ssh.png>] [14] <r1.jpg, id=273, 255.95625pt x 197.73875pt>
 File: r1.jpg Graphic file (type jpg)
  <use r1.jpg>
 Package pdftex.def Info: r1.jpg used on input line 249.
 (pdftex.def)             Requested size: 284.52756pt x 219.82451pt.
- [15 <./r1.jpg>] <lxt.jpg, id=292, 259.97125pt x 195.73125pt>
+ [15 <./r1.jpg>] <lxt.jpg, id=286, 259.97125pt x 195.73125pt>
 File: lxt.jpg Graphic file (type jpg)
  <use lxt.jpg>
 Package pdftex.def Info: lxt.jpg used on input line 257.
 (pdftex.def)             Requested size: 284.52756pt x 214.22089pt.
 
-<Lsusb.PNG, id=293, 487.8225pt x 158.09062pt>
+<Lsusb.PNG, id=287, 487.8225pt x 158.09062pt>
 File: Lsusb.PNG Graphic file (type png)
  <use Lsusb.PNG>
 Package pdftex.def Info: Lsusb.PNG used on input line 264.
 (pdftex.def)             Requested size: 292.69576pt x 94.85509pt.
- [16 <./lxt.jpg> <./Lsusb.PNG>] <iwifi.png, id=304, 508.14844pt x 319.1925pt>
+ [16 <./lxt.jpg> <./Lsusb.PNG>] <iwifi.png, id=298, 508.14844pt x 319.1925pt>
 File: iwifi.png Graphic file (type png)
  <use iwifi.png>
 Package pdftex.def Info: iwifi.png used on input line 271.
 (pdftex.def)             Requested size: 304.8914pt x 191.51697pt.
 
-<wificon.png, id=305, 508.14844pt x 319.1925pt>
+<wificon.png, id=299, 508.14844pt x 319.1925pt>
 File: wificon.png Graphic file (type png)
  <use wificon.png>
 Package pdftex.def Info: wificon.png used on input line 277.
@@ -789,24 +795,24 @@ Package pdftex.def Info: wificon.png used on input line 277.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [18] <M1.PNG, id=329, 1026.08344pt x 515.67656pt>
+ [18] <M1.PNG, id=322, 1026.08344pt x 515.67656pt>
 File: M1.PNG Graphic file (type png)
 
 <use M1.PNG>
 Package pdftex.def Info: M1.PNG used on input line 307.
 (pdftex.def)             Requested size: 307.82741pt x 154.70415pt.
- <M2.PNG, id=330, 586.44093pt x 464.4853pt>
+ <M2.PNG, id=323, 586.44093pt x 464.4853pt>
 File: M2.PNG Graphic file (type png)
  <use M2.PNG>
 Package pdftex.def Info: M2.PNG used on input line 313.
 (pdftex.def)             Requested size: 293.21974pt x 232.24208pt.
- [19 <./M1.PNG> <./M2.PNG>] <M3.PNG, id=342, 585.68813pt x 462.22687pt>
+ [19 <./M1.PNG> <./M2.PNG>] <M3.PNG, id=335, 585.68813pt x 462.22687pt>
 File: M3.PNG Graphic file (type png)
  <use M3.PNG>
 Package pdftex.def Info: M3.PNG used on input line 320.
 (pdftex.def)             Requested size: 292.84334pt x 231.11287pt.
 
-<M4.PNG, id=343, 583.42969pt x 462.22687pt>
+<M4.PNG, id=336, 583.42969pt x 462.22687pt>
 File: M4.PNG Graphic file (type png)
  <use M4.PNG>
 Package pdftex.def Info: M4.PNG used on input line 328.
@@ -815,7 +821,7 @@ Package pdftex.def Info: M4.PNG used on input line 328.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./M3.PNG>] <M5.PNG, id=354, 1026.83624pt x 547.2947pt>
+[20 <./M3.PNG>] <M5.PNG, id=347, 1026.83624pt x 547.2947pt>
 File: M5.PNG Graphic file (type png)
  <use M5.PNG>
 Package pdftex.def Info: M5.PNG used on input line 335.
@@ -823,7 +829,7 @@ Package pdftex.def Info: M5.PNG used on input line 335.
 
 [21 <./M4.PNG> <./M5.PNG>]
 Chapter 3.
-<j8h.png, id=364, 501.875pt x 150.5625pt>
+<j8h.png, id=357, 501.875pt x 150.5625pt>
 File: j8h.png Graphic file (type png)
  <use j8h.png>
 Package pdftex.def Info: j8h.png used on input line 357.
@@ -831,13 +837,13 @@ Package pdftex.def Info: j8h.png used on input line 357.
  [22
 
  <./j8h.png>]
-<RaspberryPi2_pinout.jpg, id=372, 570.13pt x 415.5525pt>
+<RaspberryPi2_pinout.jpg, id=365, 570.13pt x 415.5525pt>
 File: RaspberryPi2_pinout.jpg Graphic file (type jpg)
 
 <use RaspberryPi2_pinout.jpg>
 Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 365.
 (pdftex.def)             Requested size: 342.08064pt x 249.33342pt.
- <idle3.png, id=373, 602.25pt x 589.20125pt>
+ <idle3.png, id=366, 602.25pt x 589.20125pt>
 File: idle3.png Graphic file (type png)
 
 <use idle3.png>
@@ -847,7 +853,7 @@ Package pdftex.def Info: idle3.png used on input line 383.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23 <./RaspberryPi2_pinout.jpg>] <py.png, id=383, 1028.34187pt x 548.0475pt>
+[23 <./RaspberryPi2_pinout.jpg>] <py.png, id=376, 1028.34187pt x 548.0475pt>
 File: py.png Graphic file (type png)
 
 <use py.png>
@@ -861,7 +867,7 @@ Overfull \hbox (51.32947pt too wide) in paragraph at lines 398--400
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<1.png, id=384, 1026.83624pt x 536.75531pt>
+<1.png, id=377, 1026.83624pt x 536.75531pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
 Package pdftex.def Info: 1.png used on input line 405.
@@ -874,25 +880,25 @@ Overfull \hbox (50.72722pt too wide) in paragraph at lines 405--407
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24 <./idle3.png>] <2.png, id=395, 479.54156pt x 192.72pt>
+[24 <./idle3.png>] <2.png, id=388, 479.54156pt x 192.72pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
 Package pdftex.def Info: 2.png used on input line 415.
 (pdftex.def)             Requested size: 191.81322pt x 77.08662pt.
- [25 <./py.png> <./1.png>] [26 <./2.png>] <3.png, id=413, 481.8pt x 193.47281pt
+ [25 <./py.png> <./1.png>] [26 <./2.png>] <3.png, id=406, 481.8pt x 193.47281pt
 >
 File: 3.png Graphic file (type png)
 
 <use 3.png>
 Package pdftex.def Info: 3.png used on input line 426.
 (pdftex.def)             Requested size: 192.71658pt x 77.38774pt.
- [27 <./3.png>] <4.png, id=425, 481.04718pt x 192.72pt>
+ [27 <./3.png>] <4.png, id=418, 481.04718pt x 192.72pt>
 File: 4.png Graphic file (type png)
  <use 4.png>
 Package pdftex.def Info: 4.png used on input line 441.
 (pdftex.def)             Requested size: 192.41545pt x 77.08662pt.
 
-<5.png, id=426, 1028.34187pt x 548.0475pt>
+<5.png, id=419, 1028.34187pt x 548.0475pt>
 File: 5.png Graphic file (type png)
  <use 5.png>
 Package pdftex.def Info: 5.png used on input line 447.
@@ -945,18 +951,18 @@ Overfull \hbox (73.62451pt too wide) in paragraph at lines 22--477
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[30] <spi1.png, id=472, 334.24875pt x 119.69719pt>
+[30] <spi1.png, id=466, 334.24875pt x 119.69719pt>
 File: spi1.png Graphic file (type png)
  <use spi1.png>
 Package pdftex.def Info: spi1.png used on input line 488.
 (pdftex.def)             Requested size: 233.97252pt x 83.78745pt.
 
-<spi2.png, id=473, 331.99031pt x 115.93312pt>
+<spi2.png, id=467, 331.99031pt x 115.93312pt>
 File: spi2.png Graphic file (type png)
  <use spi2.png>
 Package pdftex.def Info: spi2.png used on input line 494.
 (pdftex.def)             Requested size: 232.39162pt x 81.15262pt.
- [31 <./spi1.png> <./spi2.png>] <mcp.jpg, id=482, 259.7203pt x 222.8325pt>
+ [31 <./spi1.png> <./spi2.png>] <mcp.jpg, id=476, 259.7203pt x 222.8325pt>
 File: mcp.jpg Graphic file (type jpg)
  <use mcp.jpg>
 Package pdftex.def Info: mcp.jpg used on input line 526.
@@ -1021,7 +1027,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-<i2c_9.png, id=533, 534.49687pt x 209.28188pt>
+<i2c_9.png, id=527, 534.49687pt x 209.28188pt>
 File: i2c_9.png Graphic file (type png)
  <use i2c_9.png>
 Package pdftex.def Info: i2c_9.png used on input line 600.
@@ -1279,46 +1285,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 700.
  (T1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 700.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 700.
-
-
-Package rerunfilecheck Warning: File `T1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `T1.out':
-(rerunfilecheck)             Before: 188EFF5B56BA2A49D421B2734FDEC099;2336
-(rerunfilecheck)             After:  FC5F79487EC18C1423346F97AB881923;2280.
+Package rerunfilecheck Info: File `T1.out' has not changed.
+(rerunfilecheck)             Checksum: FC5F79487EC18C1423346F97AB881923;2280.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 700.
  ) 
 Here is how much of TeX's memory you used:
- 7395 strings out of 493333
- 106798 string characters out of 3139194
- 235594 words of memory out of 3000000
- 10283 multiletter control sequences out of 15000+200000
+ 7391 strings out of 493333
+ 106742 string characters out of 3139194
+ 235634 words of memory out of 3000000
+ 10282 multiletter control sequences out of 15000+200000
  10537 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,9n,43p,752b,1778s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.2.8} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.7.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.
-pfb>
-Output written on T1.pdf (46 pages, 1431292 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt1
+0.pfb>
+Output written on T1.pdf (46 pages, 1431162 bytes).
 PDF statistics:
- 1056 PDF objects out of 1200 (max. 8388607)
- 552 named destinations out of 1000 (max. 500000)
- 394 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1050 PDF objects out of 1200 (max. 8388607)
+ 549 named destinations out of 1000 (max. 500000)
+ 386 words of extra memory for PDF output out of 10000 (max. 10000000)
 
