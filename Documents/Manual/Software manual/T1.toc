@@ -27,4 +27,5 @@
 \contentsline {subsection}{\numberline {3.4.4}Xbee Communication}{41}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}Servo motors}{43}{subsection.3.4.5}
 \contentsline {subsection}{\numberline {3.4.6}Turning off pi with press of push button}{44}{subsection.3.4.6}
-\contentsline {chapter}{\numberline {4}References}{45}{chapter.4}
+\contentsline {subsection}{\numberline {3.4.7}Running program on booting of pi}{45}{subsection.3.4.7}
+\contentsline {chapter}{\numberline {4}References}{46}{chapter.4}
