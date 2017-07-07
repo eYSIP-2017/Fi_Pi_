@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.6.26)  6 JUL 2017 11:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.6.26)  7 JUL 2017 01:05
 entering extended mode
 **./T1.tex
 (T1.tex
@@ -193,25 +193,158 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip43
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 12.
- (T1.aux)
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \hspace{5cm}
+                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \textcolor 
+                           
+l.15 ...tbf{\fontsize{60}{70}\selectfont{Fi-Pi}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/it' in size <60> not available
+(Font)              size <24.88> substituted on input line 15.
+
+! Undefined control sequence.
+<recently read> \textcolor 
+                           
+l.17 \textcolor
+               {Dred}{\textbf{\fontsize{30}{10}\selectfont{Adaptor Board for...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <30> not available
+(Font)              size <24.88> substituted on input line 17.
+
+! Undefined control sequence.
+l.19 \textcolor
+               {Dred}{\textbf{\fontsize{30}{10}\selectfont{\hspace{4 cm}usin...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \textcolor 
+                           
+l.21 \textcolor
+               {Dred}{\textbf{\fontsize{30}{10}\selectfont{\hspace{3 cm}HARD...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Overfull \hbox (8.47023pt too wide) in paragraph at lines 14--25
+\OT1/cmr/m/n/10.95 Dred \OT1/cmr/bx/n/24.88 us-ing Rasp-berry Pi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Overfull \hbox (4.84268pt too wide) in paragraph at lines 14--25
+\OT1/cmr/m/n/10.95 Dred \OT1/cmr/bx/n/24.88 HARD-WARE MAN-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--25
+
+ []
+
+(T1.aux)
 \openout1 = `T1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 \c@lstlisting=\count107
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count108
 \scratchdimen=\dimen113
@@ -247,7 +380,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 18.
+Package hyperref Info: Link coloring ON on input line 26.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -257,24 +390,41 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count114
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (T1.out) (T1.out)
 \@outlinefile=\write3
 \openout3 = `T1.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(T1.toc
+
+! LaTeX Error: No \title given.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\newpage
+              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 	\newpage
+               [1] (T1.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 
@@ -302,12 +452,12 @@ l.29 ...ress of push button}{44}{subsection.3.4.6}
 
  [2]
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
  [3
 
 ]
@@ -318,362 +468,362 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 Generation 2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/bx/n/10.95 Target
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/bx/n/10.95 price(in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 Broadcom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2835
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (CPU, GPU,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 Broadcom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2835
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (CPU, GPU,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 Broadcom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2835
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (CPU, GPU,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 Broadcom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2835
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (CPU, GPU,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 Broadcom
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2836
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (CPU, GPU,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 700 MHz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 single-core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 ARM1176JZF-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 700 MHz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 single-core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 ARM1176JZF-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 700 MHz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 single-core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 ARM1176JZF-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 700 MHz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 single-core
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 ARM1176JZF-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 core ARM
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/bx/n/10.95 Memory
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 256 MB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (shared with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 256 MB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (shared with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 512 MB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (shared with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 512 MB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (shared with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/bx/n/10.95 USB 2.0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2835
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 BCM2835
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 board 3-port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 board 5-port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 board 5-port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/bx/n/10.95 On-board
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (3.3 V with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 card power
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 MicroSD
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/bx/n/10.95 On-board
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 Eth-er-net
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (8P8C) USB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 adapter on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 the third/-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 fifth port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 of the USB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 hub (SMSC
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 Eth-er-net
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (8P8C) USB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 adapter on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 the third/-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 fifth port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 of the USB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 hub (SMSC
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 Eth-er-net
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 (8P8C) USB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 adapter on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 the third/-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 fifth port
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 of the USB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 hub (SMSC
  []
 
@@ -682,7 +832,7 @@ Missing character: There is no ó in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ó in font cmr10!
 
-Underfull \hbox (badness 3199) in paragraph at lines 75--75
+Underfull \hbox (badness 3199) in paragraph at lines 83--83
 \OT1/cmr/m/n/10.95 and HAT ID
  []
 
@@ -693,63 +843,63 @@ Missing character: There is no ó in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ó in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/bx/n/10.95 Power rat-
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 75--75
+Underfull \hbox (badness 4467) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 300 mA (1.5
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 75--75
+Underfull \hbox (badness 4467) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 700 mA (3.5
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 75--75
+Underfull \hbox (badness 4467) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 600 mA (3.0
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
 []\OT1/cmr/m/n/10.95 800 mA(4.0
  []
 
-[4] [5] [6] [7] <2.PNG, id=209, 479.54156pt x 192.72pt>
+[4] [5] [6] [7] <2.PNG, id=218, 479.54156pt x 192.72pt>
 File: 2.PNG Graphic file (type png)
  <use 2.PNG>
-Package pdftex.def Info: 2.PNG used on input line 129.
+Package pdftex.def Info: 2.PNG used on input line 137.
 (pdftex.def)             Requested size: 287.72716pt x 115.63287pt.
 
-<3.PNG, id=211, 481.8pt x 193.47281pt>
+<3.PNG, id=220, 481.8pt x 193.47281pt>
 File: 3.PNG Graphic file (type png)
  <use 3.PNG>
-Package pdftex.def Info: 3.PNG used on input line 136.
+Package pdftex.def Info: 3.PNG used on input line 144.
 (pdftex.def)             Requested size: 289.08221pt x 116.08458pt.
 
-<4.PNG, id=212, 481.04718pt x 192.72pt>
+<4.PNG, id=221, 481.04718pt x 192.72pt>
 File: 4.PNG Graphic file (type png)
  <use 4.PNG>
-Package pdftex.def Info: 4.PNG used on input line 144.
+Package pdftex.def Info: 4.PNG used on input line 152.
 (pdftex.def)             Requested size: 288.63054pt x 115.63287pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <./2.PNG> <./3.PNG>] <Keyboard-Change2.PNG, id=227, 433.62pt x 635.37375pt>
+[8 <./2.PNG> <./3.PNG>] <Keyboard-Change2.PNG, id=236, 433.62pt x 635.37375pt>
 File: Keyboard-Change2.PNG Graphic file (type png)
 
 <use Keyboard-Change2.PNG>
-Package pdftex.def Info: Keyboard-Change2.PNG used on input line 151.
+Package pdftex.def Info: Keyboard-Change2.PNG used on input line 159.
 (pdftex.def)             Requested size: 284.54257pt x 284.53885pt.
 
-<Keyboard-Change3.PNG, id=228, 448.67625pt x 292.84406pt>
+<Keyboard-Change3.PNG, id=237, 448.67625pt x 292.84406pt>
 File: Keyboard-Change3.PNG Graphic file (type png)
 
 <use Keyboard-Change3.PNG>
-Package pdftex.def Info: Keyboard-Change3.PNG used on input line 157.
+Package pdftex.def Info: Keyboard-Change3.PNG used on input line 165.
 (pdftex.def)             Requested size: 269.20782pt x 175.70778pt.
 
 
@@ -759,152 +909,152 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Chapter 2.
 [11
 
-] [12] <ssh.png, id=262, 356.33125pt x 142.5325pt>
+] [12] <ssh.png, id=271, 356.33125pt x 142.5325pt>
 File: ssh.png Graphic file (type png)
  <use ssh.png>
-Package pdftex.def Info: ssh.png used on input line 206.
+Package pdftex.def Info: ssh.png used on input line 214.
 (pdftex.def)             Requested size: 285.06537pt x 114.02614pt.
- [13 <./ssh.png>] [14] <r1.jpg, id=273, 255.95625pt x 197.73875pt>
+ [13 <./ssh.png>] [14] <r1.jpg, id=282, 255.95625pt x 197.73875pt>
 File: r1.jpg Graphic file (type jpg)
  <use r1.jpg>
-Package pdftex.def Info: r1.jpg used on input line 249.
+Package pdftex.def Info: r1.jpg used on input line 257.
 (pdftex.def)             Requested size: 284.52756pt x 219.82451pt.
- [15 <./r1.jpg>] <lxt.jpg, id=286, 259.97125pt x 195.73125pt>
+ [15 <./r1.jpg>] <lxt.jpg, id=294, 259.97125pt x 195.73125pt>
 File: lxt.jpg Graphic file (type jpg)
  <use lxt.jpg>
-Package pdftex.def Info: lxt.jpg used on input line 257.
+Package pdftex.def Info: lxt.jpg used on input line 265.
 (pdftex.def)             Requested size: 284.52756pt x 214.22089pt.
 
-<Lsusb.PNG, id=287, 487.8225pt x 158.09062pt>
+<Lsusb.PNG, id=295, 487.8225pt x 158.09062pt>
 File: Lsusb.PNG Graphic file (type png)
  <use Lsusb.PNG>
-Package pdftex.def Info: Lsusb.PNG used on input line 264.
+Package pdftex.def Info: Lsusb.PNG used on input line 272.
 (pdftex.def)             Requested size: 292.69576pt x 94.85509pt.
- [16 <./lxt.jpg> <./Lsusb.PNG>] <iwifi.png, id=298, 508.14844pt x 319.1925pt>
+ [16 <./lxt.jpg> <./Lsusb.PNG>] <iwifi.png, id=306, 508.14844pt x 319.1925pt>
 File: iwifi.png Graphic file (type png)
  <use iwifi.png>
-Package pdftex.def Info: iwifi.png used on input line 271.
+Package pdftex.def Info: iwifi.png used on input line 279.
 (pdftex.def)             Requested size: 304.8914pt x 191.51697pt.
 
-<wificon.png, id=299, 508.14844pt x 319.1925pt>
+<wificon.png, id=307, 508.14844pt x 319.1925pt>
 File: wificon.png Graphic file (type png)
  <use wificon.png>
-Package pdftex.def Info: wificon.png used on input line 277.
+Package pdftex.def Info: wificon.png used on input line 285.
 (pdftex.def)             Requested size: 304.8914pt x 191.51697pt.
  [17 <./iwifi.png> <./wificon.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [18] <M1.PNG, id=322, 1026.08344pt x 515.67656pt>
+ [18] <M1.PNG, id=330, 1026.08344pt x 515.67656pt>
 File: M1.PNG Graphic file (type png)
 
 <use M1.PNG>
-Package pdftex.def Info: M1.PNG used on input line 307.
+Package pdftex.def Info: M1.PNG used on input line 315.
 (pdftex.def)             Requested size: 307.82741pt x 154.70415pt.
- <M2.PNG, id=323, 586.44093pt x 464.4853pt>
+ <M2.PNG, id=331, 586.44093pt x 464.4853pt>
 File: M2.PNG Graphic file (type png)
  <use M2.PNG>
-Package pdftex.def Info: M2.PNG used on input line 313.
+Package pdftex.def Info: M2.PNG used on input line 321.
 (pdftex.def)             Requested size: 293.21974pt x 232.24208pt.
- [19 <./M1.PNG> <./M2.PNG>] <M3.PNG, id=335, 585.68813pt x 462.22687pt>
+ [19 <./M1.PNG> <./M2.PNG>] <M3.PNG, id=343, 585.68813pt x 462.22687pt>
 File: M3.PNG Graphic file (type png)
  <use M3.PNG>
-Package pdftex.def Info: M3.PNG used on input line 320.
+Package pdftex.def Info: M3.PNG used on input line 328.
 (pdftex.def)             Requested size: 292.84334pt x 231.11287pt.
 
-<M4.PNG, id=336, 583.42969pt x 462.22687pt>
+<M4.PNG, id=344, 583.42969pt x 462.22687pt>
 File: M4.PNG Graphic file (type png)
  <use M4.PNG>
-Package pdftex.def Info: M4.PNG used on input line 328.
+Package pdftex.def Info: M4.PNG used on input line 336.
 (pdftex.def)             Requested size: 291.71413pt x 231.11287pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./M3.PNG>] <M5.PNG, id=347, 1026.83624pt x 547.2947pt>
+[20 <./M3.PNG>] <M5.PNG, id=355, 1026.83624pt x 547.2947pt>
 File: M5.PNG Graphic file (type png)
  <use M5.PNG>
-Package pdftex.def Info: M5.PNG used on input line 335.
+Package pdftex.def Info: M5.PNG used on input line 343.
 (pdftex.def)             Requested size: 308.05325pt x 164.18967pt.
 
 [21 <./M4.PNG> <./M5.PNG>]
 Chapter 3.
-<j8h.png, id=357, 501.875pt x 150.5625pt>
+<j8h.png, id=365, 501.875pt x 150.5625pt>
 File: j8h.png Graphic file (type png)
  <use j8h.png>
-Package pdftex.def Info: j8h.png used on input line 357.
+Package pdftex.def Info: j8h.png used on input line 365.
 (pdftex.def)             Requested size: 351.31009pt x 105.39302pt.
  [22
 
  <./j8h.png>]
-<RaspberryPi2_pinout.jpg, id=365, 570.13pt x 415.5525pt>
+<RaspberryPi2_pinout.jpg, id=373, 570.13pt x 415.5525pt>
 File: RaspberryPi2_pinout.jpg Graphic file (type jpg)
 
 <use RaspberryPi2_pinout.jpg>
-Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 365.
+Package pdftex.def Info: RaspberryPi2_pinout.jpg used on input line 373.
 (pdftex.def)             Requested size: 342.08064pt x 249.33342pt.
- <idle3.png, id=366, 602.25pt x 589.20125pt>
+ <idle3.png, id=374, 602.25pt x 589.20125pt>
 File: idle3.png Graphic file (type png)
 
 <use idle3.png>
-Package pdftex.def Info: idle3.png used on input line 383.
+Package pdftex.def Info: idle3.png used on input line 391.
 (pdftex.def)             Requested size: 284.53705pt x 227.62085pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23 <./RaspberryPi2_pinout.jpg>] <py.png, id=376, 1028.34187pt x 548.0475pt>
+[23 <./RaspberryPi2_pinout.jpg>] <py.png, id=385, 1028.34187pt x 548.0475pt>
 File: py.png Graphic file (type png)
 
 <use py.png>
-Package pdftex.def Info: py.png used on input line 398.
+Package pdftex.def Info: py.png used on input line 406.
 (pdftex.def)             Requested size: 411.32947pt x 219.2151pt.
 
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 398--400
+Overfull \hbox (51.32947pt too wide) in paragraph at lines 406--408
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<1.png, id=377, 1026.83624pt x 536.75531pt>
+<1.png, id=386, 1026.83624pt x 536.75531pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
-Package pdftex.def Info: 1.png used on input line 405.
+Package pdftex.def Info: 1.png used on input line 413.
 (pdftex.def)             Requested size: 410.72722pt x 214.6983pt.
 
-Overfull \hbox (50.72722pt too wide) in paragraph at lines 405--407
+Overfull \hbox (50.72722pt too wide) in paragraph at lines 413--415
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24 <./idle3.png>] <2.png, id=388, 479.54156pt x 192.72pt>
+[24 <./idle3.png>] <2.png, id=396, 479.54156pt x 192.72pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
-Package pdftex.def Info: 2.png used on input line 415.
+Package pdftex.def Info: 2.png used on input line 423.
 (pdftex.def)             Requested size: 191.81322pt x 77.08662pt.
- [25 <./py.png> <./1.png>] [26 <./2.png>] <3.png, id=406, 481.8pt x 193.47281pt
+ [25 <./py.png> <./1.png>] [26 <./2.png>] <3.png, id=414, 481.8pt x 193.47281pt
 >
 File: 3.png Graphic file (type png)
 
 <use 3.png>
-Package pdftex.def Info: 3.png used on input line 426.
+Package pdftex.def Info: 3.png used on input line 434.
 (pdftex.def)             Requested size: 192.71658pt x 77.38774pt.
- [27 <./3.png>] <4.png, id=418, 481.04718pt x 192.72pt>
+ [27 <./3.png>] <4.png, id=426, 481.04718pt x 192.72pt>
 File: 4.png Graphic file (type png)
  <use 4.png>
-Package pdftex.def Info: 4.png used on input line 441.
+Package pdftex.def Info: 4.png used on input line 449.
 (pdftex.def)             Requested size: 192.41545pt x 77.08662pt.
 
-<5.png, id=419, 1028.34187pt x 548.0475pt>
+<5.png, id=427, 1028.34187pt x 548.0475pt>
 File: 5.png Graphic file (type png)
  <use 5.png>
-Package pdftex.def Info: 5.png used on input line 447.
+Package pdftex.def Info: 5.png used on input line 455.
 (pdftex.def)             Requested size: 411.32947pt x 219.2151pt.
 
-Overfull \hbox (51.32947pt too wide) in paragraph at lines 447--449
+Overfull \hbox (51.32947pt too wide) in paragraph at lines 455--457
  [][] 
  []
 
@@ -947,25 +1097,25 @@ Overfull \hbox (21.06396pt too wide) in paragraph at lines 19--20
  []
 
 )
-Overfull \hbox (73.62451pt too wide) in paragraph at lines 22--477
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 22--485
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[30] <spi1.png, id=466, 334.24875pt x 119.69719pt>
+[30] <spi1.png, id=474, 334.24875pt x 119.69719pt>
 File: spi1.png Graphic file (type png)
  <use spi1.png>
-Package pdftex.def Info: spi1.png used on input line 488.
+Package pdftex.def Info: spi1.png used on input line 496.
 (pdftex.def)             Requested size: 233.97252pt x 83.78745pt.
 
-<spi2.png, id=467, 331.99031pt x 115.93312pt>
+<spi2.png, id=475, 331.99031pt x 115.93312pt>
 File: spi2.png Graphic file (type png)
  <use spi2.png>
-Package pdftex.def Info: spi2.png used on input line 494.
+Package pdftex.def Info: spi2.png used on input line 502.
 (pdftex.def)             Requested size: 232.39162pt x 81.15262pt.
- [31 <./spi1.png> <./spi2.png>] <mcp.jpg, id=476, 259.7203pt x 222.8325pt>
+ [31 <./spi1.png> <./spi2.png>] <mcp.jpg, id=484, 259.7203pt x 222.8325pt>
 File: mcp.jpg Graphic file (type jpg)
  <use mcp.jpg>
-Package pdftex.def Info: mcp.jpg used on input line 526.
+Package pdftex.def Info: mcp.jpg used on input line 534.
 (pdftex.def)             Requested size: 181.80296pt x 155.98167pt.
  [32 <./mcp.jpg>] (adc.py
 Overfull \hbox (53.9143pt too wide) in paragraph at lines 3--6
@@ -1008,11 +1158,11 @@ Overfull \hbox (126.18506pt too wide) in paragraph at lines 38--39
 ) [33]
 File: spi1.png Graphic file (type png)
  <use spi1.png>
-Package pdftex.def Info: spi1.png used on input line 576.
+Package pdftex.def Info: spi1.png used on input line 584.
 (pdftex.def)             Requested size: 233.97252pt x 83.78745pt.
 File: spi2.png Graphic file (type png)
  <use spi2.png>
-Package pdftex.def Info: spi2.png used on input line 582.
+Package pdftex.def Info: spi2.png used on input line 590.
 (pdftex.def)             Requested size: 232.39162pt x 81.15262pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1027,13 +1177,13 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-<i2c_9.png, id=527, 534.49687pt x 209.28188pt>
+<i2c_9.png, id=535, 534.49687pt x 209.28188pt>
 File: i2c_9.png Graphic file (type png)
  <use i2c_9.png>
-Package pdftex.def Info: i2c_9.png used on input line 600.
+Package pdftex.def Info: i2c_9.png used on input line 608.
 (pdftex.def)             Requested size: 320.70059pt x 125.57007pt.
  [34]
-Underfull \hbox (badness 1325) in paragraph at lines 612--613
+Underfull \hbox (badness 1325) in paragraph at lines 620--621
 []\OT1/cmr/m/n/10.95 port ex-pander 1
  []
 
@@ -1209,7 +1359,7 @@ Overfull \hbox (172.17554pt too wide) in paragraph at lines 45--46
  []
 
 ) [42]
-Underfull \hbox (badness 10000) in paragraph at lines 655--656
+Underfull \hbox (badness 10000) in paragraph at lines 663--664
 []\OT1/cmr/m/n/10.95 Raspberry
  []
 
@@ -1277,45 +1427,43 @@ Overfull \hbox (1.35376pt too wide) in paragraph at lines 13--14
 
 ) [44] [45]
 Chapter 4.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 702.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 710.
 [46
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 702.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 710.
  (T1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 702.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 702.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 710.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 710.
+Package rerunfilecheck Info: File `T1.out' has not changed.
+(rerunfilecheck)             Checksum: DE84EDB90AA6937DABDB6172025B1CB4;2367.
 
 
-Package rerunfilecheck Warning: File `T1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 35.12pt have occurred.
 
-Package rerunfilecheck Info: Checksums for `T1.out':
-(rerunfilecheck)             Before: FC5F79487EC18C1423346F97AB881923;2280
-(rerunfilecheck)             After:  DE84EDB90AA6937DABDB6172025B1CB4;2367.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 702.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 710.
  ) 
 Here is how much of TeX's memory you used:
- 7393 strings out of 493333
- 106765 string characters out of 3139194
- 235634 words of memory out of 3000000
- 10282 multiletter control sequences out of 15000+200000
- 10537 words of font info for 37 fonts, out of 3000000 for 9000
+ 7399 strings out of 493333
+ 106860 string characters out of 3139194
+ 235647 words of memory out of 3000000
+ 10287 multiletter control sequences out of 15000+200000
+ 11255 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,9n,43p,752b,1778s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,9n,43p,752b,1774s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt1
-0.pfb>
-Output written on T1.pdf (47 pages, 1432793 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb>
+Output written on T1.pdf (48 pages, 1432925 bytes).
 PDF statistics:
- 1057 PDF objects out of 1200 (max. 8388607)
+ 1064 PDF objects out of 1200 (max. 8388607)
  551 named destinations out of 1000 (max. 500000)
- 386 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 394 words of extra memory for PDF output out of 10000 (max. 10000000)
 
