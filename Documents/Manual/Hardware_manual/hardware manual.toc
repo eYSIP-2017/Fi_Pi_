@@ -1,0 +1,16 @@
+\contentsline {chapter}{\numberline {1}}{3}
+\contentsline {section}{\numberline {1.1}\textbf {Introduction}}{3}
+\contentsline {subsection}{\numberline {1.1.1}\textbf {Components on the adaptor board}}{3}
+\contentsline {section}{\numberline {1.2}\textbf {Main board pin details}}{4}
+\contentsline {section}{\numberline {1.3}\textbf {Adaptor board parts}}{8}
+\contentsline {section}{\numberline {1.4}\textbf {Powering Raspberry Pi}}{9}
+\contentsline {section}{\numberline {1.5}\textbf {Battery voltage indication}}{10}
+\contentsline {section}{\numberline {1.6}\textbf {Buzzer interface}}{11}
+\contentsline {section}{\numberline {1.7}\textbf {LCD interface}}{12}
+\contentsline {section}{\numberline {1.8}\textbf {Sensors and ADC interface}}{13}
+\contentsline {section}{\numberline {1.9}\textbf {Motors and wheel encoders interface}}{15}
+\contentsline {section}{\numberline {1.10}\textbf {Powering servo motors and Servo pod connections}}{17}
+\contentsline {section}{\numberline {1.11}\textbf {Interrupt switch and controlling bargraph leds}}{18}
+\contentsline {section}{\numberline {1.12}\textbf {TSOP1738 RC5 IR receiver and decoder}}{19}
+\contentsline {section}{\numberline {1.13}\textbf {UART communication with Raspberry Pi}}{20}
+\contentsline {section}{\numberline {1.14}\textbf {Adaptor board expansion socket}}{21}
